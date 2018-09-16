@@ -1,11 +1,16 @@
 ---
 layout: post
-title: How I Rest From Work
+title: Quality of Nationality Index for G7 and BRICS Countries
 date: 2018-09-15 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Quality of Nationality Index (QNI) provides a comprehensive ranking of the quality of nationalities worldwide.
 img: Quality_of_National_Index_for_G7_and_BRICS_countries.png
 fig-caption: # Add figcaption (optional)
 tags: [Nationality, World, Freedom]
 ---
+The Henley & Partners – Kochenov Quality of Nationality Index (QNI) provides a comprehensive ranking of the quality of nationalities worldwide. To ensure a high level of reliability, a wide variety of strictly quantifiable data is used to gauge the opportunities and limitations that our nationalities impose on us. For that purpose, the QNI measures both the internal value of nationality, which refers to the quality of life and opportunities for personal growth within our country of origin, and the external value of nationality, which identifies the diversity and quality of opportunities that our nationality allows us to pursue outside our country of origin.
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+[Read more about this topic](https://www.amazon.com/Quality-Nationality-Index-Dimitry-Kochenov-ebook/dp/B01GFGV3FI)
+
+**Source:** [Nationality Index](https://www.nationalityindex.com)
+
+**Methodology:** [Nationality Index Methodology](https://www.nationalityindex.com/methodology)

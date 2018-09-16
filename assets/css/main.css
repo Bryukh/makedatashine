@@ -1141,6 +1141,7 @@ footer .copyright {
   width: 30%;
   max-width: 100%;
   min-height: 11rem;
+  padding: 10px;
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
