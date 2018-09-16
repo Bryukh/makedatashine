@@ -9,14 +9,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Bryukh  # Credits: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
+author: Make Data Shine  # Credits: David Freeman for the theme and the template
+author-img: mds-logo.jpg # add your photo
 about-author: TODO # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-twitter: makedatashine # add your Twitter handle
+social-facebook: makedatashine # add your Facebook handle
+social-github: makedatashine # add your Github handle
+social-linkedin: makedatashine # add your Linkedin handle
+social-email: contact@makedatashine.com # add your Email address
 
 # Disqus
 discus-identifier: bryukh # add your discus identifier
