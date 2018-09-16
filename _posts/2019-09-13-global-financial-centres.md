@@ -4,6 +4,7 @@ title: Biggest movers in the global financial centers ranking
 date: 2018-09-13 13:00:00 +0300
 description: The Global Financial Centres Index is published bi-annually by Z/Yen Group, the City of London’s most respected private think tank.
 img: global-financial-centres.png
+thumb: global-financial-centres_small.png
 fig-caption: # Add figcaption (optional)
 tags: [Economics, World, Cities]
 ---

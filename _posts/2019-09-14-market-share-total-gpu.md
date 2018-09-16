@@ -4,6 +4,7 @@ title: Market share for total GPUs
 date: 2018-09-14 14:32:20 +0300
 description: Overall, the report finds the crypto-currency market is continuing to influence the PC graphics market, though its influence is waning.
 img: market-share-total-gpu.png
+thumb: market-share-total-gpu_small.png
 fig-caption: # Add figcaption (optional)
 tags: [GPU, Technology]
 ---

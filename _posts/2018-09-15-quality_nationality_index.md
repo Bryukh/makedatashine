@@ -4,6 +4,7 @@ title: Quality of Nationality Index
 date: 2018-09-15 13:00:00 +0300
 description: Quality of Nationality Index (QNI) provides a comprehensive ranking of the quality of nationalities worldwide.
 img: quality_nationality_index.png
+thumb: quality_nationality_index_small.png
 fig-caption: # Add figcaption (optional)
 tags: [Nationality, World, Freedom]
 ---
